@@ -1,0 +1,197 @@
+<!doctype html>  
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+         <link rel="stylesheet" type="text/css" href="https://grc-ribeiro.github.io/files/proposal.css">  
+        <title>James Repetti - Final project proposal</title>
+        
+    </head>
+    <body>
+    
+        <div class="container">
+        
+            <h1>Final project proposal</h1>
+            
+            <h2>Introduction</h2>
+            
+            <p>Starry Sky Coffee Roasters (Cafe) </p>
+            
+            <p>A small coffee shop that provides a variety of drinks to it's customers. It has a celestial theme, which contributes to it's goal in helping customers acheive their wishes. Starry Sky intends to be a place where friends can gather late into the night and chat over a cup of coffee.  </p>
+            
+            <h2>Target audience</h2>
+            
+            <p>The people who use this site are people who stay up late into the night with their friends. They love to talk in ambient places and relax after a long day of work. They value nice presentation in their drinks and environments, making Starry Sky a perfect place for them to go.  </p>
+           
+            <p>People who use this site want to see what different kinds of coffee they can order, as well as what kinds of coffee beans they can buy to make Starry Sky's signature blend at home. Customers of Starry Sky want a place that fosters community and connection, and can look at the menu online when sitting at a table with friends, before they go to order. </p>
+            
+            <h2>Comparative analysis</h2>
+            
+            
+            
+            <h3>Yala Coffee  </h3>
+           
+            <p><a href="https://www.yalacoffee.com/">yalacoffee.com</a></p> 
+            
+            <img src="yalahome.png" alt="Screenshot of the home page of the yala coffee website." title="Yala Home" />
+            
+            <img src="yalamenu.png" alt="Screenshot of the menu page of the yala coffee website." title="Yala Menu" />
+
+            <h3>Caffe Nero  </h3>
+           
+            <p><a href="https://www.caffenero.com/us">caffenero.com</a></p> 
+            
+            <img src="nerohome.png" alt="Screenshot of the home page of the Nero coffee website." title="Nero Home" />
+            
+            <img src="neroabout.png" alt="Screenshot of the about page of the Nero coffee website." title="Nero About" />
+
+
+            <h3>Canyon Coffee  </h3>
+           
+            <p><a href="https://canyoncoffee.co/">canyoncoffee.com</a></p> 
+            
+            <img src="canyonhome.png" alt="Screenshot of the home page of the Canyon Coffee website." title="Canyon Home" />
+            
+            <img src="canyonshop.png" alt="Screenshot of the shop page of the Canyon Coffee website." title="Canyon Shop" />
+
+
+            <h2>Website content</h2>
+           
+           
+           
+           <nav> 
+            <ul>
+                    <li>Home</li>
+                    <li>Menu</li>
+                    <li>About</li>
+                    <li>Location</li>
+                </ul>
+            </nav>
+            
+           
+
+                <section> 
+            
+					<h1> Home </h1>
+				
+					<p>  Pouring signature coffee to customers at any hour, day or night.   </p>
+			  
+					<p> [Starry Sky interior] </p>
+
+				
+                 </section>
+            
+
+                 <section>
+
+					<h1> Menu </h1>
+				
+					<h2> Craft Coffee </h2>
+			  
+					<p>    [coffee being poured] </p>
+
+                    <ul>
+                            <li>
+                                <h3>Double Shot Espresso</h3>
+                                <p>Quick and poigniant, our double shot is sure to wake you up</p>
+                                <p>$4.00</p>
+                            </li>
+
+                            <li>
+                                <h3>Caramel Cappuchino</h3>
+                                <p>Classic Italian Coffee, made in a moka pot</p>
+                                <p>$7.00</p>
+                            </li>
+
+                            <li>
+                                <h3>Honey Lavender Latte</h3>
+                                <p>Thick and smooth, its the owner's favorite!</p>
+                                <p>$6.75</p>
+                            </li>
+
+                            <li>
+                                <h3>Macchiato</h3>
+                                <p>Watered Down Espresso</p>
+                                <p>$5.00</p>
+                            </li>
+
+                    </ul>
+
+                    <h2> Specialty tea </h2>
+			  
+					<p>    [purple iced tea in a glass] </p>
+
+                    <ul>
+                            <li>
+                                <h3>Iced Lavender special</h3>
+                                <p>An aromatic blend that is sure to relax even the most stressed person.</p>
+                                <p>$6.00</p>
+                            </li>
+
+                            <li>
+                                <h3>Hibiscus Lemonade</h3>
+                                <p>A tangy drink</p>
+                                <p>$6.50</p>
+                            </li>
+
+                            <li>
+                                <h3>Strawberry Matcha Lattee</h3>
+                                <p>We know you're performative</p>
+                                <p>$7.50</p>
+                            </li>
+
+                            <li>
+                                <h3>Chai Latte</h3>
+                                <p>Wow its so delicious!</p>
+                                <p>$6.25</p>
+                            </li>
+
+                    </ul>
+
+				
+            </section>
+            
+            <section> 
+            
+					<h1> About Us </h1>
+				
+					<p> [Coffee being poured over an espresso machine]     </p>
+			  
+					<p> Starry Sky started out as a food truck in the Seattle area. With locals coming by late at night for a cup of coffee and a look at the Elliot Bay, their support has led us to owning our very own business thats open to the public.  </p>
+				
+                    <p> Come down late at night if you're ever feeling restless. If you need a cup of coffee, we got you! Feel free to talk amongst other customers, or make art in the lobby. </p>
+
+            </section>
+
+            <section> 
+            
+					<h1> Location </h1>
+				
+					<p> Come Visit Us.     </p>
+
+                    <address> 827 Wall St, Seattle, WA </address>
+
+                    <address> 449 004 3423 </address>
+
+                    <address> cafe@starrysky.com </address>
+			  
+					<p>    [picture of customers inside restaurant] </p>
+
+                    <h3> Hours </h3>
+
+                     <p>Monday - Friday </p>
+
+                     <p> 7 a.m. - 11 p.m. </p>
+
+                     <p> Saturday - Sunday</p>
+
+                     <p> 9 a.m. - 2 a.m.</p>
+
+				
+            </section>
+
+        
+        </div>
+    </body>
+</html>
+
